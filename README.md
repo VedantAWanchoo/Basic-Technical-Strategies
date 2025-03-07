@@ -11,3 +11,5 @@ Alpha and coefficients of the equal weighted portfolio using CAPM, Fama French 3
 Calculated Amihud illiquidity for these three stocks for January 2008 to December 2009 with plots.
 
 Calculated Sharpe.
+
+This was done in the pre - ChatGPT era so please overlook the redundancies. 
